@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color:Black;
+  color:White;
+}
+
+.techfont{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1.5em;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+.mycontent{
+  padding-bottom: 50px;
+}
